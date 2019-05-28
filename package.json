@@ -1,0 +1,16 @@
+{
+  "name": "ang-lrn-2nd-try",
+  "version": "1.0.0",
+  "description": "This what coursera vaala south Indian told me to dooooo!!!",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "author": "yuvraj narchissist",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}

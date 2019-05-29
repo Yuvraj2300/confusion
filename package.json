@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/Yuvraj2300/confusion/issues"
   },
-  "homepage": "https://github.com/Yuvraj2300/confusion#readme"
+  "homepage": "https://github.com/Yuvraj2300/confusion#readme",
+  "dependencies": {
+    "@angular/animations": "^6.1.7",
+    "@angular/cdk": "^6.4.7",
+    "@angular/material": "^6.4.7",
+    "hammerjs": "^2.0.8"
+  }
 }

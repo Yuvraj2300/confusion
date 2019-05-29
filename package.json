@@ -4,13 +4,21 @@
   "description": "This what coursera vaala south Indian told me to dooooo!!!",
   "main": "index.html",
   "scripts": {
-    "start":"npm run lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
+    "lite": "lite-server"
   },
   "author": "yuvraj narchissist",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.4.0"
-  }
+    "lite-server": "^2.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuvraj2300/confusion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yuvraj2300/confusion/issues"
+  },
+  "homepage": "https://github.com/Yuvraj2300/confusion#readme"
 }

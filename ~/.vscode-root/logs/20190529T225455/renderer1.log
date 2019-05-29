@@ -1,0 +1,11 @@
+[2019-05-29 23:49:37.390] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at Y.getDataNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:959:671)
+    at Y.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:957:964)
+    at Generator.next (<anonymous>)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:621
+    at new Promise (<anonymous>)
+    at n (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:398)
+    at Y.expand (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:957:731)
+    at e.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5278:237)
+    at Generator.next (<anonymous>)
+    at r (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:34:454)

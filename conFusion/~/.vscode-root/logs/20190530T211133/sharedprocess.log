@@ -1,0 +1,64 @@
+[2019-05-30 21:11:38.830] [sharedprocess] [info] main {"machineId":"1b2acaefa67af21ef846cf7f67d68412a5b8f4477978800224c6dbc5987a5a52"}
+[2019-05-30 21:11:38.943] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:11:40.055] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:11:40.870] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:11:40.876] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:11:41.000] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:11:41.009] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:11:41.069] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:11:41.121] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:11:44.210] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:12:00.328] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:12:00.333] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:12:00.522] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:12:00.530] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:12:00.638] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:12:00.708] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:12:02.550] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:12:18.857] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-05-30 21:17:03.223] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:20:47.697] [sharedprocess] [info] Installing extension: hardikpthv.angularmaterial
+[2019-05-30 21:20:47.708] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:20:47.719] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:20:47.722] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:20:47.737] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:20:47.753] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:20:47.779] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:20:47.918] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:20:47.925] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:20:47.932] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:20:47.953] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:20:47.981] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:20:48.027] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:20:48.045] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:20:48.058] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:20:48.070] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:20:48.217] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:20:48.229] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:20:48.234] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:20:48.240] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:20:48.278] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:20:48.321] [sharedprocess] [info] Scanned user extensions: 0
+[2019-05-30 21:20:48.368] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-30 21:21:23.245] [sharedprocess] [info] Downloaded extension: hardikpthv.angularmaterial /tmp/516114ef-ce46-4dd4-bdcf-ae3ca8329526
+[2019-05-30 21:21:23.463] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.hardikpthv.angularmaterial-7.0.1: hardikpthv.angularmaterial
+[2019-05-30 21:21:23.464] [sharedprocess] [info] Renamed to /root/.vscode/extensions/hardikpthv.angularmaterial-7.0.1
+[2019-05-30 21:21:23.465] [sharedprocess] [info] Installation completed. hardikpthv.angularmaterial
+[2019-05-30 21:21:23.640] [sharedprocess] [info] Extensions installed successfully: hardikpthv.angularmaterial
+[2019-05-30 21:22:03.241] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-30 21:27:03.637] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-30 21:32:03.648] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-30 21:37:03.659] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-30 21:42:03.775] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-30 21:47:03.785] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-30 21:52:03.798] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-30 21:57:03.809] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-30 22:02:04.641] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-30 22:07:04.652] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-30 22:12:04.663] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-30 22:17:05.430] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-30 22:22:05.441] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-30 22:27:05.452] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-30 22:32:05.691] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-30 22:37:05.723] [sharedprocess] [info] Scanned user extensions: 1
+[2019-05-30 22:42:12.817] [sharedprocess] [info] Scanned user extensions: 1

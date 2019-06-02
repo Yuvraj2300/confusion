@@ -1363,5 +1363,19 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/yuvraj/gitHub/confusion"
+    "pickerWorkingDir": "/home/yuvraj/gitHub/confusion",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/yuvraj/gitHub/confusion/conFusion",
+            "backupPath": "/home/yuvraj/gitHub/confusion/conFusion/~/.vscode-root/Backups/d84c8bcb5bbdd384e6616287e63cdaf5",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 26,
+                "width": 1366,
+                "height": 714
+            }
+        },
+        "openedWindows": []
+    }
 }
